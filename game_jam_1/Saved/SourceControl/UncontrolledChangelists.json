@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Profiles/clh5602/GameJam1/350-game-jam-1/game_jam_1/Content/StarterContent/Architecture/Floor_400x400.uasset"
+			]
+		}
+	]
+}
